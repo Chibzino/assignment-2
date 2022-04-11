@@ -3,11 +3,11 @@
 }
 .uber{
   float: left;
-margin-right: 25%;
+margin-right: 7%;
 }
 .amazon{
     float: left;
-    margin-right: 25%;
+    margin-right: 7%;
 }
 .github{
     float: left;  
@@ -47,7 +47,7 @@ cursor: pointer;
 }
 .bootstrap{
     float: left;
-    margin-right: 17%;
+    margin-right: 5%;
 }
 
 .linkedln{
